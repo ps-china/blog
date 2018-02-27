@@ -1,3 +1,5 @@
+# Pokemon Showdown 安卓APP使用教程 by SCEAM
+
 ## PS安卓APP下载地址
 
 [百度网盘下载点](https://pan.baidu.com/s/1ht7MrmW) 密码:gr14
