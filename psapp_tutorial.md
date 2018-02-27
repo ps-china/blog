@@ -24,13 +24,13 @@
 
 输入你的账号
 
-![0_1519727390803_005 输入账号ID.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/005%20输入账号id.jpg) 
+![0_1519727390803_005 输入账号ID.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/005%20%E8%BE%93%E5%85%A5%E8%B4%A6%E5%8F%B7ID.jpg) 
 
 注意账号必须使用英文，不能使用全中文ID，过短或简单词语的ID基本已经被注册，不能使用
 
 注册你的ID并设置个人信息
 
-![0_1519727449515_006 注册你的ID设置个人信息.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/006%20注册你的id设置个人信息.jpg) 
+![0_1519727449515_006 注册你的ID设置个人信息.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/006%20%E6%B3%A8%E5%86%8C%E4%BD%A0%E7%9A%84ID%E8%AE%BE%E7%BD%AE%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg) 
 
 人物头像选取
 
@@ -42,7 +42,7 @@
 
 登录一个已经注册的ID
 
-![0_1519727517920_010 登陆自己的ID.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/010%20登陆自己的id.jpg) 
+![0_1519727517920_010 登陆自己的ID.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/009%20%E7%99%BB%E9%99%86%E5%B7%B2%E7%BB%8F%E6%B3%A8%E5%86%8C%E7%9A%84ID.jpg) 
 
 ### 5 组建队伍
 
@@ -70,7 +70,7 @@
 
 配置努力、性格、闪光等
 
-![0_1519727969378_019 配置努力 性格 闪光等.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/019%20配置努力-性格-闪光等.jpg) 
+![0_1519727969378_019 配置努力 性格 闪光等.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/019%20配置努力%20性格%20闪光等.jpg) 
 
 设置努力值
 
@@ -92,7 +92,7 @@
 
 ### 7 自动匹配排位对战
 
-![0_1519728164833_023’ 导入队伍后.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/023%20导入队伍后.jpg) 
+![0_1519728164833_023’ 导入队伍后.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/023%E2%80%99%20%E5%AF%BC%E5%85%A5%E9%98%9F%E4%BC%8D%E5%90%8E.jpg) 
 
 点击Find Battle按钮即可开始寻找战斗。匹配到对手后，进入对战界面
 
@@ -126,7 +126,7 @@
 
 ### 8 挑战特定玩家
 
-![0_1519728784094_023’ 导入队伍后.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/023%20导入队伍后.jpg) 
+![0_1519728784094_023’ 导入队伍后.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/023%E2%80%99%20%E5%AF%BC%E5%85%A5%E9%98%9F%E4%BC%8D%E5%90%8E.jpg) 
 
 点击上方“挑战”按钮
 
