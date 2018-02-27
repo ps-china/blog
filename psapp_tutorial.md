@@ -14,7 +14,7 @@
 
 ### 3 图鉴功能
 
-![0_1519727209634_003 图鉴功能.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/003 图鉴功能.jpg)
+![0_1519727209634_003 图鉴功能.jpg](https://github.com/ps-china/blog/blob/master/PS%20APP%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B%20%E5%9B%BE%E7%89%87%E7%89%88/003%20图鉴功能.jpg)
 
 ### 4 如何使用账号
 
